@@ -1,7 +1,7 @@
 ## Hi there 👋
-![WakaTime daily](https://wakatime.com/share/@Zokinko/4df6fb78-132b-4521-b997-38c28c96d07a.png)
+![WakaTime daily](https://wakatime.com/share/@Zokinko/287df3cd-3aa1-45df-beba-8046bf2aeec5.png)
 <br/>
-![WakaTime languages](https://wakatime.com/share/@Zokinko/34637cd7-d270-4755-bd34-2233169594d6.png)
+![WakaTime languages](https://wakatime.com/share/@Zokinko/8d5d111e-afde-451d-bde6-81aae84b7e06.png)
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=xzovin00&theme=dark&exclude_days=Sun%2CSat&cache=1)-->
 <!--
 **Zokinko/Zokinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
