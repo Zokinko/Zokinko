@@ -1,4 +1,6 @@
 ## Hi there 👋
+.. image:: https://wakatime.com/share/@Zokinko/34637cd7-d270-4755-bd34-2233169594d6.png
+    :target: https://wakatime.com/
 
 <!--
 **Zokinko/Zokinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
